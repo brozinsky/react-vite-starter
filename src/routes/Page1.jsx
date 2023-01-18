@@ -6,7 +6,7 @@ export default function Root() {
     <>
       <MenuTop />
       <div className="container flex items-center justify-center h-screen">
-        <HomePage title={"Home"} />
+        <HomePage title={"Page1"} />
       </div>
     </>
   );
